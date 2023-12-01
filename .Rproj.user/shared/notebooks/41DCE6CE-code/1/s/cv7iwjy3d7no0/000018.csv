@@ -1,0 +1,2 @@
+"0","datos <- datos[datos$Tiempo!=0.0,]"
+"0","plot(datos$Tiempo,datos$`Volumen en L`)"
