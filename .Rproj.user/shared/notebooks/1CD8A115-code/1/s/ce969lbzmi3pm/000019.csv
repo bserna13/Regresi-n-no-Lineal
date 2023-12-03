@@ -1,0 +1,3 @@
+"0","#plot(Puntaje_huevo,y.pred)"
+"0","points(Tiempo,y.pred,type=""b"",col=""red"")"
+"0",""

@@ -1,0 +1,3 @@
+"0","points(semanas[order(semanas)],"
+"0","       153.93176 - 0.08247*(semanas[order(semanas)]-40.50893)^2"
+"0","       ,type=""b"",col=""red"")"
